@@ -1,0 +1,5 @@
+branchingpoints: 300
+restraints: 600
+domain: 60
+branchlength: 60
+copy: 1
